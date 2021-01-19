@@ -146,7 +146,7 @@
   margin-bottom: calc(var(--border, 3px) + var(--padding-top, 10px));
   margin-left: calc(
 		var(--landscape-width-total, 0px) + 
-    var(--padding-left, 10px) + calc(var(--text-padding, 1ch) * 2) + 1ch +
+    var(--padding-left, 10px) + calc(var(--text-padding, 1ch) * 2) + 3ch +
       calc(var(--border, 3px) * 2)
   );
   line-height: calc(var(--height, 36px) - calc(var(--border, 3px) * 2));
